@@ -10,6 +10,8 @@ Open the `index.html` file to view the landing page and test its functionality. 
 
 ## Instructions
 
+The application should meet the following criteria:
+
 1. Implement a landing page that includes a header, footer, and a contact form.
 Use semantic HTML elements to create a clean, accessible structure.
 
