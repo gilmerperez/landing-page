@@ -6,7 +6,7 @@ A landing page using HTML and CSS. Implements a contact form as well as a polish
 
 ## Usage
 
-Open the `index.html` file to view the landing page and test its functionality. Make sure that all user stories and acceptance criteria are met.
+Open the `index.html` file to view the landing page and test its functionality.
 
 ## Instructions
 
