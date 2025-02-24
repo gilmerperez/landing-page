@@ -1,12 +1,25 @@
 # Simple HTML & CSS Landing Page
 
-## Description
-
 A landing page using HTML and CSS. Implements a contact form as well as a polished UI.
+
+## Table of Contents
+
+- [Usage](#usage)
+- [Mock Up](#mock-up)
+- [Instructions](#instructions)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Additional Resources](#additional-resources)
 
 ## Usage
 
 Open the `index.html` file to view the landing page and test its functionality.
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![Screenshot](./assets/images/scWebsite.jpg)
 
 ## Instructions
 
